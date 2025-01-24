@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm a Full-Stack developer student
+## 👨‍💻 About 
+I'm a full-stack developer student based in Gold Coast, Australia, specializing in both front-end and back-end.
+I built my projects with complete custom code and designs ensuring a seamless user experience from start to finish.
 
-⚙️ I use daily: .php, .js, .html, .css, .py
+## 💻 Technologies I use:
+- **Front-end**: HTML, CSS, JavaScript
+- **Back-end**: PHP, Python, Django
+- **Databases: MySQL, MongoDB
+- **Tools**: Git, Powershell
+
+## 📫 Contact
+- 📧 **Email**: felipemiglesias.com
+- 💼 **LinkedIn**: [linkedin.com/in/felipeiglesiasgarcia](https://www.linkedin.com/in/felipeiglesiasgarcia/)
+
