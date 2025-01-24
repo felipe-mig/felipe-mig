@@ -11,6 +11,6 @@ I built my projects with complete custom code and designs ensuring a seamless us
 - **Tools**: Git, Powershell
 
 ## 📫 Contact
-- 📧 **Email**: felipemiglesias.com
+- 📧 **Email**: felipemiglesias@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/felipeiglesiasgarcia](https://www.linkedin.com/in/felipeiglesiasgarcia/)
 
