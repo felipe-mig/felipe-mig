@@ -7,7 +7,7 @@ I built my projects with complete custom code and designs ensuring a seamless us
 ## 💻 Technologies I use:
 - **Front-end**: HTML, CSS, JavaScript
 - **Back-end**: PHP, Python, Django
-- **Databases: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB
 - **Tools**: Git, Powershell
 
 ## 📫 Contact
