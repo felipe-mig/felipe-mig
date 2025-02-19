@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## 👨‍💻 About 
-I'm a full-stack developer student based in Gold Coast, Australia, specializing in both front-end and back-end.
-I built my projects with complete custom code and designs ensuring a seamless user experience from start to finish.
+I'm a Full-Stack Developer student based in Gold Coast, Australia, specializing in both front-end and back-end.
+I build my projects with fully custom code and designs ensuring a seamless user experience from start to finish.
 
 ## 💻 Technologies I use:
 - **Front-end**: HTML, CSS, JavaScript
